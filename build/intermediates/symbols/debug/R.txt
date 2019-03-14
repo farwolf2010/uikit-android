@@ -720,6 +720,7 @@ int bool abc_config_allowActionMenuItemTextWithIcon 0x7f050006
 int bool abc_config_closeDialogWhenTouchOutside 0x7f050007
 int bool abc_config_showMenuShortcutsWhenKeyboardPresent 0x7f050008
 int bool pickerview_customTextSize 0x7f050009
+int bool weex_is_right_to_left 0x7f05000a
 int color GreyWhite 0x7f060001
 int color abc_background_cache_hint_selector_material_dark 0x7f060002
 int color abc_background_cache_hint_selector_material_light 0x7f060003

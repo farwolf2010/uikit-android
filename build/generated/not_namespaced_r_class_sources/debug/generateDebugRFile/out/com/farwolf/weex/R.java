@@ -577,6 +577,7 @@ public final class R {
         public static int abc_config_closeDialogWhenTouchOutside = 0x7f050007;
         public static int abc_config_showMenuShortcutsWhenKeyboardPresent = 0x7f050008;
         public static int pickerview_customTextSize = 0x7f050009;
+        public static int weex_is_right_to_left = 0x7f05000a;
     }
     public static final class color {
         private color() {}
